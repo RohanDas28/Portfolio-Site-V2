@@ -1,0 +1,97 @@
+# WhatATheme
+markdown: kramdown
+
+# URL of the Site
+url: 'https://rohandas28.github.io/'
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: 
+
+# Title of the Site
+title: Rohan Das
+# Description of the Site
+description: Passionate Coder With Imagination
+# URL of Image of the Site
+site-image: https://i.imgur.com/qZyimQu.png
+# Keywords of the Site
+site-keywords: Rohan Das, rohandas, rohan, das, rohan das yt, rohandas28, coder
+# URL for the Image of custom Favicon
+favicon-url: 
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: /assets/images/hero.jpg
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: rohandasbirbhum@gmail.com
+facebook_username: 
+twitter_username: RohanDas28
+instagram_username: RohanDasRD
+linkedin_username: 
+github_username:  RohanDas28
+youtube_channel_id: UCKIG8Wnqbk4eApnWko7wBkg
+reddit_username: RohanDas28
+behance_username: 
+dribbble_username: 
+spotify_username: 
+telegram_username: RohanDas28
+
+# Google Analytics
+google-analytics: UA-77097747-2
+
+# Disqus
+disqus-shortname: rohandas28
+
+# Name of the Author
+author-name: Rohan Das
+# URL for the Image of the Author
+author-image: https://github.com/rohandas28.png
+# 60 Words About the Author
+author-about: Rohan Das is young and passionate Python coder, who has a good command in Python, HTML, CSS. Also, he is a creative graphic designer and enthusiastic techie who has a YouTube channel where he discusses tech-stuff. For more information, you can contact me via mail and social media.
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://github.com/rohandas28
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
