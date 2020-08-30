@@ -61,19 +61,6 @@ a.navbar-item.is-active {
         content: "";
     }
 }
-    .image {
-        max-width: 20vmax;
-        margin: auto;
-
-        img {
-            transition: all 0.25s ease;
-            &:hover{
-                transition: all 0.25s ease;
-                transform: scale(1.05);
-                
-            }
-        }
-    }
 
 .title {
     margin: auto 0.75rem!important;

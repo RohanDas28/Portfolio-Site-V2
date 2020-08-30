@@ -5,7 +5,6 @@ markdown: kramdown
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
-
 # Title of the Site
 title: Rohan Das
 # Description of the Site
@@ -25,7 +24,7 @@ email: rohandasbirbhum@gmail.com
 facebook_username: 
 twitter_username: RohanDas28
 instagram_username: RohanDasRD
-linkedin_username: 
+linkedin_username: RohanDas28
 github_username:  RohanDas28
 youtube_channel_id: UCKIG8Wnqbk4eApnWko7wBkg
 reddit_username: RohanDas28
