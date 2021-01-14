@@ -27,3 +27,8 @@
   image: https://cdn.pixabay.com/photo/2018/03/23/08/09/flat-3252983_960_720.png
   description: This is a simple Python Face Recognition script which uses OpenCV library.
   link: https://github.com/RohanDas28/Python-Face-Recognition
+
+- name: Battery Percentage Notifier
+  image: https://cdn.pixabay.com/photo/2019/05/21/01/30/battery-4218090_1280.jpg
+  description: Simple Python script to notify the user of the current charge of the battery.
+  link: https://github.com/RohanDas28/BatteryInfoNotifier
