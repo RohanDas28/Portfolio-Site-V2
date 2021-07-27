@@ -30,7 +30,7 @@
 
 - name: Battery Percentage Notifier
   image: https://cdn.pixabay.com/photo/2019/05/21/01/30/battery-4218090_1280.jpg
-  description: Simple Python script to notify the user of the current charge of the battery.
+  description: Simple Python script to notify the user the current charge of the battery.
   link: https://github.com/RohanDas28/BatteryInfoNotifier
   
 - name: Free Portfolio Website Template
