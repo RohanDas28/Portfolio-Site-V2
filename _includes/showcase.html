@@ -8,9 +8,15 @@
         </div>
       <h1 class="subtitle has-text-white is-size-3 is-uppercase has-text-weight-normal is-marginless animate__animated animate__backInUp"><span id="typed"></span></h1>
       <hr>
-      <a href="{{site.url}}{{site.baseurl}}/#about"
-        class="button is-white is-rounded is-outlined is-uppercase has-text-weight-normal animate__animated animate__backInUp">Read More</a>
-      </a>
+      <a href="{{site.url}}{{site.baseurl}}/#about" class="button is-white is-rounded is-outlined is-uppercase has-text-weight-normal animate__animated animate__backInUp">Read More</a>
+      <br>
+      <br>
+      <div class="hvr-grow" >
+        <button style="background: none; border: none; " title="Single Click To Play and Double Click To Pause :)" class="animate__animated animate__backInUp">
+            <i id="music_player" onclick="playMusic()" ondblclick="pauseMusic()"
+                class="fas fa-play" style="color: aliceblue; font-size: 25px;"></i>
+        </button>
+    </div>
     </div>
   </div>
 </section>

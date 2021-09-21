@@ -33,9 +33,13 @@
   description: Simple Python script to notify the user the current charge of the battery.
   link: https://github.com/RohanDas28/BatteryInfoNotifier
   
-- name: Free Portfolio Website Template
+- name: Portfolio Template
   image: https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg
   description: Simple Portfolio Template for my fellow developers.
   link: https://www.rohandas.me/Portfolio-Template/
+- name: Speedtest Using Python
+  image: https://cdn.pixabay.com/photo/2019/08/25/19/35/internet-4430189_960_720.jpg
+  description: Simple Python application to test internet speed.
+  link: https://github.com/RohanDas28/Speedtest-Python
   
   
