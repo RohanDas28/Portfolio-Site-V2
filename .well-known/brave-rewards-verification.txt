@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: rohandas.me
-Token: 8483e18ede6d8b88de84bedd57fe317537f732f34b57fec273cd9b120c4c1933
