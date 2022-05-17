@@ -36,10 +36,16 @@
 - name: Portfolio Template
   image: https://cdn.pixabay.com/photo/2018/05/18/15/30/webdesign-3411373_960_720.jpg
   description: Simple Portfolio Template for my fellow developers.
-  link: https://www.rohandas.me/Portfolio-Template/
+  link: https://rohandas28.github.io/Portfolio-Template/
+  
 - name: Speedtest Using Python
   image: https://cdn.pixabay.com/photo/2019/08/25/19/35/internet-4430189_960_720.jpg
   description: Simple Python application to test internet speed.
   link: https://github.com/RohanDas28/Speedtest-Python
+
+- name: Lo-fi Music Player
+  image: https://images.pexels.com/photos/2510575/pexels-photo-2510575.jpeg
+  description: Simple Lo-Fi Music Player.
+  link: https://rohandas28.github.io/Lo-Fi-Music-Player/
   
   
